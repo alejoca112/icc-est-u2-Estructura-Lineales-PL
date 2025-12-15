@@ -9,7 +9,7 @@ public class App {
         
         // 1. Ejecutar SignValidator
         System.out.println("\n[Ejercicio 01] Validacion de Signos:");
-        //runSignValidator();
+        runSignValidator();
 
         // 2. Ejecutar StackSorter
         System.out.println("\n[Ejercicio 02] Ordenar Stack:");
