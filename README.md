@@ -67,7 +67,7 @@ Se utilizaron **dos Colas (Queues)** para comparar la secuencia.
 3.  Se extraen elementos de ambas colas simultáneamente (`remove/pop`). Si en alguna iteración los caracteres no coinciden, no es palíndromo.
 
 ### Evidencia de Ejecución (Java)
-*(Véase la captura anterior que incluye la ejecución de ambos ejercicios)*
+*(La misma de la anterior ejecucion)*
 
 ---
 
