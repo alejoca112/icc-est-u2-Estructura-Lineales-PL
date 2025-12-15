@@ -5,7 +5,7 @@ import java.util.Stack;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("--- TAREA COMPLETADA: ESTRUCTURAS LINEALES ---");
+        System.out.println("--- TAREA Java: ESTRUCTURAS LINEALES ---");
         
         // 1. Ejecutar SignValidator
         System.out.println("\n[Ejercicio 01] Validacion de Signos:");
@@ -13,11 +13,11 @@ public class App {
 
         // 2. Ejecutar StackSorter
         System.out.println("\n[Ejercicio 02] Ordenar Stack:");
-        //runStackSorter();
+        runStackSorter();
 
         // 3. Ejecutar QueuePalindromo
         System.out.println("\n[Ejercicio 03] Palindromo con Colas:");
-        //runQueuePalindrome();
+        runQueuePalindrome();
     }
 
     private static void runSignValidator() {
